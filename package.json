@@ -1,0 +1,27 @@
+{
+  "name": "Kpgroup",
+  "version": "0.0.1",
+  "description": "Kang Pacific Group ",
+  "main": "server.js",
+  "dependencies": {
+      "express": "*",
+      "mongodb": "*"
+  },
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/simtemple/kpgroup.git"
+  },
+  "author": "Simon Ndulagwa",
+  "license": "",
+  "bugs": {
+    "url": "http://github.com/simtemple/kpgroup/issues"
+  },
+  "homepage": "http://github.com/simtemple/kpgroup"
+}
